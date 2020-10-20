@@ -1,0 +1,2 @@
+$ javac task1/*
+$ java task1/VeterinaryTest
